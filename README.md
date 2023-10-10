@@ -1,2 +1,3 @@
 # python-programming
-All Basic to Advance programming in python
+All Basic to Advanced programming in Python
+<h1>Author: Chirag Bharadwaj</h1>
